@@ -11,3 +11,7 @@
 // 2. Multiply the two together and store the result in myDogAge 
 // 3. Log myDogAge to the console
 
+let myAge = 20;
+let humanDogRatio = 25;
+let  myDogAge  = myAge * myDogAge;
+console.log(myDogAge)
