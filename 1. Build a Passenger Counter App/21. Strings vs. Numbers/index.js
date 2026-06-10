@@ -12,3 +12,7 @@ console.log(4 + 5)
 console.log("2" + "4")
 console.log("5" + 1)
 console.log(100 + "100")
+let points = 4
+let bonuspoints = "10"
+let total = points + bonuspoints
+console.log(total)
